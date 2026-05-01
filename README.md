@@ -1,16 +1,18 @@
-## Hi there 👋
+# What's up 🚀
 
-<!--
-**josephine198837/josephine198837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **josephine198837**, a principal engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me anything about code
+- 🎯 Goal: ship something useful every week
+- 📫 Reach me through GitHub
+- 🚀 Performance matters
+
+## Tech
+
+`PostgreSQL` `Actix` `Neovim` `TypeScript`
+
+---
+
+_Spaces over tabs._
